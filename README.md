@@ -11,18 +11,18 @@ Project Overview :
 
 Business Objectives :
 
-  Monitor overall booking and revenue performance
-  Identify peak demand hours and high-value days
-  Analyze customer travel behavior (distance & duration)
-  Optimize driver availability and surge pricing
-  Enable drill-through analysis for detailed trip investigation
+  Monitor overall booking and revenue performance, 
+  Identify peak demand hours and high-value days, 
+  Analyze customer travel behavior (distance & duration), 
+  Optimize driver availability and surge pricing, 
+  Enable drill-through analysis for detailed trip investigation.
 
 
 Key KPIs Tracked :
 
-  Total Bookings
-  Total Booking Value (Revenue)
-  Average Booking Value
-  Total Trip Distance
-  Average Trip Distance
-  Average Trip Time
+  Total Bookings, 
+  Total Booking Value (Revenue). 
+  Average Booking Value. 
+  Total Trip Distance, 
+  Average Trip Distance, 
+  Average Trip Time.
