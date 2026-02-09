@@ -55,7 +55,10 @@ Business Value:
 
 Dashboard Preview :
 
+
 <img width="1998" height="1128" alt="Uber Trip Analysis - Overview Analysis" src="https://github.com/user-attachments/assets/01140bea-fefc-4289-90d8-ac711b22d30d" />
+
+
 
 
 
@@ -111,6 +114,9 @@ Dashboard Preview :
 
 
 
+
+
+
 3️⃣ Details Dashboard (Drill-Through View) :
 
 Provides granular trip-level visibility.
@@ -128,6 +134,25 @@ Business Value:
     Root-cause analysis of anomalies
     Operational audits and validations
     Data transparency for stakeholders
+
+
+
+Dashboard Preview :
+
+
+<img width="1994" height="1134" alt="Uber Trip Analysis - Time Analysis" src="https://github.com/user-attachments/assets/5559a416-2090-4301-ae54-87a864b549a2" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 🛠 Tools & Technologies Used :
