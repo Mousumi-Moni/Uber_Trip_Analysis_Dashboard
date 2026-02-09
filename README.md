@@ -83,8 +83,8 @@ Dynamic Measure Selector:
     - Total Booking Value
     - Total Trip Distance
 
-Hourly demand trends
-Day-of-week analysis
+Hourly demand trends, 
+Day-of-week analysis, 
 Hour-by-Day heatmap for peak identification
 
 
