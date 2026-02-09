@@ -31,6 +31,7 @@ Key KPIs Tracked :
 
 Dashboard Structure & Features :
 
+
 1️⃣ Overview Analysis Dashboard :
 
 Provides a high-level executive summary of business performance.
@@ -50,3 +51,110 @@ Business Value:
     Helps leadership understand what is driving revenue
     Supports vehicle mix optimization
     Identifies high-traffic locations for operational focus
+
+
+
+2️⃣ Time Analysis Dashboard :
+
+Designed to analyze trip demand patterns over time.
+
+Key Features :
+
+Dynamic Measure Selector:
+
+    - Total Bookings
+    - Total Booking Value
+    - Total Trip Distance
+
+Hourly demand trends
+Day-of-week analysis
+Hour-by-Day heatmap for peak identification
+
+
+Key Insights :
+        
+    Peak demand during midday to evening hours
+    Highest bookings on weekends
+    Clear low-demand periods for cost optimization
+
+
+Business Value :
+
+    Optimizes driver shift scheduling
+    Improves surge pricing strategies
+    Reduces customer wait time and driver idle time
+
+
+
+3️⃣ Details Dashboard (Drill-Through View) :
+
+Provides granular trip-level visibility.
+
+Features :
+      
+    Interactive grid with complete trip details
+    Drill-through from charts and heatmaps
+    Bookmark to toggle between:
+      - Filtered drill-through data
+      - Full dataset view
+
+Business Value:
+
+    Root-cause analysis of anomalies
+    Operational audits and validations
+    Data transparency for stakeholders
+
+
+🛠 Tools & Technologies Used :
+
+    Power BI
+    DAX (Data Analysis Expressions)
+    Power Query
+    Data Modeling
+    Interactive Visualizations
+    Bookmarks & Drill-Through
+    Dynamic Measures
+
+
+
+📂 Dataset Description
+
+The dataset contains trip-level ride information including :
+ 
+    Trip ID
+    Pickup date and time
+    Vehicle type
+    Payment method
+    Passenger count
+    Trip distance
+    Trip duration
+    Booking value
+    Pickup and drop-off locations
+
+(Note: Dataset used for analytical and educational purposes.)
+
+
+
+Key Business Impact :
+
+    Enabled data-driven decision-making for operations and pricing
+    Improved understanding of customer demand patterns
+    Supported resource optimization through time-based analysis
+    Delivered a scalable BI solution adaptable to other ride-sharing platforms
+
+
+
+Future Enhancements :
+
+    City-wise comparative analysis
+    Predictive demand forecasting
+    Driver performance metrics
+    Integration with real-time data sources
+
+
+
+
+
+
+
+    
