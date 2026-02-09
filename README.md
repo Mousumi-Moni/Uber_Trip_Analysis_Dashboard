@@ -53,6 +53,18 @@ Business Value:
     Identifies high-traffic locations for operational focus
 
 
+Dashboard Preview :
+
+<img width="1998" height="1128" alt="Uber Trip Analysis - Overview Analysis" src="https://github.com/user-attachments/assets/01140bea-fefc-4289-90d8-ac711b22d30d" />
+
+
+
+
+
+
+
+
+
 
 2️⃣ Time Analysis Dashboard :
 
