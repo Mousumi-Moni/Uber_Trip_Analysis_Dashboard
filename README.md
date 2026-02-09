@@ -66,6 +66,8 @@ Dashboard Preview :
 
 
 
+
+
 2️⃣ Time Analysis Dashboard :
 
 Designed to analyze trip demand patterns over time.
@@ -95,6 +97,17 @@ Business Value :
     Optimizes driver shift scheduling
     Improves surge pricing strategies
     Reduces customer wait time and driver idle time
+
+
+Dashboard Preview :
+
+
+<img width="1994" height="1134" alt="Uber Trip Analysis - Time Analysis" src="https://github.com/user-attachments/assets/aee88627-1711-478e-a4f1-d89cf7d72484" />
+
+
+
+
+
 
 
 
